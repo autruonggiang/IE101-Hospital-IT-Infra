@@ -1,1 +1,2 @@
-# IE101 - Cơ sở Hạ tầng Công nghệ Thông tin
+#IE101 - Information Technology Infrastructure
+## Topic: Understanding the information technology infrastructure of Tien Giang General Hospital
