@@ -4,14 +4,20 @@
 <img src="Images/Hospital_img.jpg" alt="Hospital image" width="500"/>
 </div>
 
-## Introduction - Reasons for choosing topic
+<div align="center">
+Tien Giang General Hospital
+</div>
 
-## Chaper I. Overview
+## Table of contents
 
-## Chaper II. Information Technology Infrastructure
+### Introduction - Reasons for choosing topic
 
-## Chaper III. Operation Procedure
+### Chaper I. Overview
 
-## Chaper IV. Advantages and Disadvantages
+### Chaper II. Information Technology Infrastructure
 
-## Conclusion
+### Chaper III. Operation Procedure
+
+### Chaper IV. Advantages and Disadvantages
+
+### Conclusion
