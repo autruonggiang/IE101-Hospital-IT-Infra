@@ -6,12 +6,12 @@
 
 ## Introduction - Reasons for choosing topic
 
-### CHAPTER I. Overview
+## Chaper I. Overview
 
-### CHAPTER II. Information Technology Infrastructure
+## Chaper II. Information Technology Infrastructure
 
-### CHAPTER III. Operation Procedure
+## Chaper III. Operation Procedure
 
-### CHAPTER IV. Advantages and Disadvantages
+## Chaper IV. Advantages and Disadvantages
 
-### Conclusion
+## Conclusion
