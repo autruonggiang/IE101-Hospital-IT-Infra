@@ -1,11 +1,19 @@
 # IE101 - Information Technology Infrastructure
 
 <div align="center">
-<img src="Images/Hospital_img.jpg" alt="Hospital image" width="500"/>
+<img src="Images/Inpatient treatment procedure.drawio.png" alt="Inpatient treatment image" width="500"/>
 </div>
 
 <div align="center">
-Tien Giang General Hospital
+  <strong>Inpatient treatment procedure</strong>
+</div>
+
+<div align="center">
+<img src="Images/Medical examination procedure.drawio.png" alt="Medical examination image" width="500"/>
+</div>
+
+<div align="center">
+  <strong>Medical examination procedure</strong>
 </div>
 
 ## Table of contents
