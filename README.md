@@ -1,15 +1,17 @@
 # IE101 - Information Technology Infrastructure
 
-## Table of contents
+```
+___Table of contents___
 
-### Introduction - Reasons for choosing topic
+# Introduction - Reasons for choosing topic
 
-### Chaper I. Overview
+# Chaper I. Overview
 
-### Chaper II. Information Technology Infrastructure
+# Chaper II. Information Technology Infrastructure
 
-### Chaper III. Operation Procedure
+# Chaper III. Operation Procedure
 
-### Chaper IV. Advantages and Disadvantages
+# Chaper IV. Advantages and Disadvantages
 
-### Conclusion
+# Conclusion
+```
