@@ -1,4 +1,4 @@
-# IE101 - Information Technology Infrastructure
+# IE101 - Information Technology Infrastructure's Project
 
 ```
 ___Table of contents___
